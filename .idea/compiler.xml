@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Day1_01_start" />
         <module name="Day2_01_response" />
+        <module name="Day2_03_exception" />
         <module name="Day2_02_fileupload" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="Day1_01_start" target="8" />
       <module name="Day2_01_response" target="8" />
       <module name="Day2_02_fileupload" target="8" />
+      <module name="Day2_03_exception" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
