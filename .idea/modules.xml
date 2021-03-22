@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day1_01_start/Day1_01_start.iml" filepath="$PROJECT_DIR$/Day1_01_start/Day1_01_start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2_01_response/Day2_01_response.iml" filepath="$PROJECT_DIR$/Day2_01_response/Day2_01_response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2_02_fileupload/Day2_02_fileupload.iml" filepath="$PROJECT_DIR$/Day2_02_fileupload/Day2_02_fileupload.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springMVC_learning.iml" filepath="$PROJECT_DIR$/.idea/springMVC_learning.iml" />
     </modules>
   </component>
