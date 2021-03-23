@@ -6,6 +6,7 @@
     <file type="web" url="file://$PROJECT_DIR$/Day2_02_fileupload" />
     <file type="web" url="file://$PROJECT_DIR$/Day2_03_exception" />
     <file type="web" url="file://$PROJECT_DIR$/Day2_04_interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/Day3_ssm" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -18,6 +19,7 @@
         <option value="$PROJECT_DIR$/Day2_02_fileupload/pom.xml" />
         <option value="$PROJECT_DIR$/Day2_03_exception/pom.xml" />
         <option value="$PROJECT_DIR$/Day2_04_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/Day3_ssm/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Day2_04_interceptor" />
         <module name="Day1_01_start" />
+        <module name="Day2_04_interceptor" />
+        <module name="Day3_ssm" />
+        <module name="Day2_02_fileupload" />
         <module name="Day2_01_response" />
         <module name="Day2_03_exception" />
-        <module name="Day2_02_fileupload" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="Day2_02_fileupload" target="8" />
       <module name="Day2_03_exception" target="8" />
       <module name="Day2_04_interceptor" target="8" />
+      <module name="Day3_ssm" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
